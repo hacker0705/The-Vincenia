@@ -582,7 +582,7 @@
                 D = new M.d.PublicKey("2iHdhwwasbCfgBE9evtP19i7LfcGe4gc8ju91ZX72EpS"),
                 Y = new M.d.PublicKey("2iHdhwwasbCfgBE9evtP19i7LfcGe4gc8ju91ZX72EpS"),
                 z = "mainnet-beta",
-                _ = new M.d.Connection("https://solana-api.projectserum.com"),
+                _ = new M.d.Connection("https://api.mainnet-beta.solana.com/"),
                 U = parseInt("1635893271", 10),
                 V = Object(C.a)({
                     palette: {
